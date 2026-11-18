@@ -9,8 +9,8 @@ The objective is to transform raw customer shopping data into actionable insight
 ## Tools & Technologies
 
 - **Python:** Data cleaning, preprocessing, exploratory data analysis, and data transformation.
-- **Pandas & NumPy:** Data manipulation and analysis.
-- **SQL (MySQL):** Data querying, business analysis, aggregations, and customer segmentation.
+- **Pandas:** Data manipulation and analysis.
+- **SQL(MySQL):** Data querying, business analysis, aggregations, and customer segmentation.
 - **Power BI:** Interactive dashboard development and data visualization.
 - **Jupyter Notebook:** Python-based analysis and documentation.
 - **Git & GitHub:** Project version control and documentation.
@@ -47,30 +47,6 @@ The project follows an end-to-end data analytics workflow:
    - Identified relevant patterns and trends.
    - Summarized findings and potential business recommendations.
 
-## Repository Structure
-
-```text
-Customer-Shopping-Behavior-Analysis/
-│
-├── Dataset/
-│   └── customer_shopping_behavior.csv
-│
-├── Python/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
-│
-├── SQL/
-│   └── customer_behavior_sql_queries.sql
-│
-├── PowerBI/
-│   └── customer_behavior_dashboard.pbix
-│
-├── Reports/
-│   └── Project_Report.pdf
-│
-└── README.md
-```
-
-*Note: Update the folder and file names above to match your actual GitHub repository.*
 
 ## Key Learning Outcomes
 
